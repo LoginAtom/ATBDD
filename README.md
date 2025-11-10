@@ -1,0 +1,1 @@
+[![Java CI with Gradle](https://github.com/LoginAtom/ATBDD/actions/workflows/gradle-publish.yml/badge.svg)](https://github.com/LoginAtom/ATBDD/actions/workflows/gradle-publish.yml)
